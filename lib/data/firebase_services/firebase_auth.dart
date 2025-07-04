@@ -7,6 +7,7 @@ class Authentication {
   Future<void> Login({required String email, required String password}) async {
     try {
       await _auth.signInWithEmailAndPassword(
+        
           email: email.trim(), password: password.trim());
     } on FirebaseException catch (e) {
       throw Exeptions(e.message.toString());
