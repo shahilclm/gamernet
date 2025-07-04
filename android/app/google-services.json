@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "646161068155",
+    "project_id": "gamingchat-393a5",
+    "storage_bucket": "gamingchat-393a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646161068155:android:44348229cf44d3c8a472de",
+        "android_client_info": {
+          "package_name": "com.example.gamernet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwivWEJZErfWL2zdtlRx61xJB8awir5uo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
